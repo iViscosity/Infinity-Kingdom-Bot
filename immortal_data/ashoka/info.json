@@ -1,0 +1,21 @@
+{
+	"ashoka": {
+		"Name": "Ashoka",
+		"Description": "Buddhist King",
+		"Troop Type": "Bowman",
+		"Element": "Fire",
+		"Position": "Range",
+		"Attributes": {
+			"Strength": 35.0,
+			"Agility": 34.0,
+			"Intelligence": 24.0,
+			"Physique": 27.0,
+			"Aptitude": 30.0,
+			"Energy Regen.": 80.0
+			},
+		"Active Skill": {
+			"Name": "Arrow of Naraka",
+			"Description": "Shoots a powerful arrow towards the enemies directly ahead, inflicting massive Physical Damage (Damage Rate 126%/168%/210%/252%/294%/336%/378%/420%) and has a 50% chance of doubling the attack's damage."
+		}
+	}
+}

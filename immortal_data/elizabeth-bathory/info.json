@@ -1,0 +1,21 @@
+{
+	"elizabeth-bathory": {
+		"Name": "Elizabeth Báthory",
+		"Description": "The Blood Countess",
+		"Troop Type": "Bowman",
+		"Element": "Shadow",
+		"Position": "Range",
+		"Attributes": {
+			"Strength": 30.0,
+			"Agility": 47.0,
+			"Intelligence": 27.0,
+			"Physique": 30.0,
+			"Aptitude": 26.0,
+			"Energy Regen.": 80.0
+			},
+		"Active Skill": {
+			"Name": "Vampiric Kiss",
+			"Description": "Inflicts Physical Damage (Damage Rate 75%/100%/125%/150%/175%/200%/225%/250%) on 2 random enemy units for every 3 seconds for 15 seconds, and transfers 25% of the damage to the caster's HP. If the target has been already attacked by this skill, inflict Physical Damage (Damage Rate 159%/212%/265%/318%/371%/424%/477%/530%) to the target and all surrounding enemies with a 9%/12%/15%/18%/21%/24%/27%/30 chance of causing Stun for 4 seconds."
+		}
+	}
+}

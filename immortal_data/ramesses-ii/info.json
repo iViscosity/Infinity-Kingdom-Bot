@@ -1,0 +1,21 @@
+{
+	"ramesses-ii": {
+		"Name": "Ramesses II",
+		"Description": "Last Glory of Egypt",
+		"Troop Type": "Spearman",
+		"Element": "Water",
+		"Position": "Attack",
+		"Attributes": {
+			"Strength": 39.0,
+			"Agility": 35.0,
+			"Intelligence": 26.0,
+			"Physique": 32.0,
+			"Aptitude": 40.0,
+			"Energy Regen.": 80.0
+			},
+		"Active Skill": {
+			"Name": "Divine Judgement",
+			"Description": "Inflicts Physical Damage (Damage Factor 99%/132%/165%/198%/231%/264%/297%/330%) on enemy targets directly ahead and Disarms them so that their damage decreases by 6%/8%/10%/12%/14%/16%/18%/20% for 6s."
+		}
+	}
+}

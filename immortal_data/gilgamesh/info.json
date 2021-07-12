@@ -1,0 +1,21 @@
+{
+	"gilgamesh": {
+		"Name": "Gilgamesh",
+		"Description": "Hero King of Sumeria",
+		"Troop Type": "Bowman",
+		"Element": "Holy",
+		"Position": "Range",
+		"Attributes": {
+			"Strength": 37.0,
+			"Agility": 42.0,
+			"Intelligence": 29.0,
+			"Physique": 27.0,
+			"Aptitude": 29.0,
+			"Energy Regen.": 62.0
+			},
+		"Active Skill": {
+			"Name": "Golden Capital",
+			"Description": "Purifies the field with Holy Fire, inflicting Physical Damage (Damage Rate 120%/160%/200%/240%/280%/320%/360%/400%) on all enemies and afflicting them with Judgment, which inflicts Physical Damage (Damage Rate 24%/32%/40%/48%/56%/64%/72%/80%) once every 3 seconds for 9 seconds."
+		}
+	}
+}

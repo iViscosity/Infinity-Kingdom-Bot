@@ -1,0 +1,21 @@
+{
+	"zenobia": {
+		"Name": "Zenobia",
+		"Description": "Queen of Resisting Rome",
+		"Troop Type": "Bowman",
+		"Element": "Earth",
+		"Position": "Support",
+		"Attributes": {
+			"Strength": 24.0,
+			"Agility": 16.0,
+			"Intelligence": 37.0,
+			"Physique": 24.0,
+			"Aptitude": 40.0,
+			"Energy Regen.": 80.0
+			},
+		"Active Skill": {
+			"Name": "Empress' Favor",
+			"Description": "Restores HP (Regen Factor 183.6%/208.8%/234%/259.2%/284.4%/309.6%/334.8%/360%) to your 2 troops with the highest troop number losses and the 2 troops will regain HP (Regen Factor 61.2%/69.6%/78%/86.4%/94.8%/103.2%/111.6%/120%) for 6s with every successful hit with a Normal Attack."
+		}
+	}
+}

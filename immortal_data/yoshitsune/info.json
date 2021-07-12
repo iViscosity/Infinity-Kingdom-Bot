@@ -1,0 +1,21 @@
+{
+	"yoshitsune": {
+		"Name": "Yoshitsune",
+		"Description": "Legendary Samurai Commander",
+		"Troop Type": "Bowman",
+		"Element": "Water",
+		"Position": "Range",
+		"Attributes": {
+			"Strength": 40.0,
+			"Agility": 40.0,
+			"Intelligence": 21.0,
+			"Physique": 29.0,
+			"Aptitude": 29.0,
+			"Energy Regen.": 66.0
+			},
+		"Active Skill": {
+			"Name": "Sky Feather",
+			"Description": "Shoot 3 arrows in a row, with each arrow inflicting Physical Damage (Damage Rate 123%/164%/205%/246%/287%/328%/369%/410%) to a random enemy unit. If the target has less than 50% troops, this damage increases by 50%."
+		}
+	}
+}

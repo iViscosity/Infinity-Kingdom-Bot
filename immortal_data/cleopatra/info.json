@@ -1,0 +1,21 @@
+{
+	"cleopatra": {
+		"Name": "Cleopatra",
+		"Description": "Queen of the Nile",
+		"Troop Type": "Bowman",
+		"Element": "Earth",
+		"Position": "Magic",
+		"Attributes": {
+			"Strength": 21.0,
+			"Agility": 32.0,
+			"Intelligence": 42.0,
+			"Physique": 22.0,
+			"Aptitude": 32.0,
+			"Energy Regen.": 80.0
+			},
+		"Active Skill": {
+			"Name": "Entangling Snakes",
+			"Description": "Inflicts Magical Damage (Damage Rate 153%/174%/195%/216%/237%/258%/279%/300%) to all enemies, and reduces the dealt Magical Damage of 2 enemy targets with the highest Magical Attack by 17.9%/20.3%/22.8%/25.2%/27.7%/30.1%/32.6%/35% for 6 seconds."
+		}
+	}
+}

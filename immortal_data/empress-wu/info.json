@@ -1,0 +1,21 @@
+{
+	"empress-wu": {
+		"Name": "Empress Wu",
+		"Description": "Empress Supreme",
+		"Troop Type": "Bowman",
+		"Element": "Fire",
+		"Position": "Magic",
+		"Attributes": {
+			"Strength": 19.0,
+			"Agility": 32.0,
+			"Intelligence": 47.0,
+			"Physique": 24.0,
+			"Aptitude": 32.0,
+			"Energy Regen.": 100.0
+			},
+		"Active Skill": {
+			"Name": "Imperial Fire",
+			"Description": "Inflicts Magical Damage (Damage Rate 306%/348%/390%/432%/474%/516%/558%/600%) to 1 random enemy unit, and has a 60% chance of causing equal damage to another nearby random enemy unit, up to 3 times."
+		}
+	}
+}

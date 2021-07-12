@@ -1,0 +1,21 @@
+{
+	"peter-the-great": {
+		"Name": "Peter the Great",
+		"Description": "Emperor of All Russia",
+		"Troop Type": "Spearman",
+		"Element": "Lightning",
+		"Position": "Attack",
+		"Attributes": {
+			"Strength": 40.0,
+			"Agility": 39.0,
+			"Intelligence": 35.0,
+			"Physique": 35.0,
+			"Aptitude": 35.0,
+			"Energy Regen.": 64.0
+			},
+		"Active Skill": {
+			"Name": "Mighty Thunder",
+			"Description": "Purifies the enemy targets directly ahead, dispelling all buffs and inflicting Physical Damage (Damage Rate 165%/220%/275%/330%/385%/440%/495%/550%)."
+		}
+	}
+}

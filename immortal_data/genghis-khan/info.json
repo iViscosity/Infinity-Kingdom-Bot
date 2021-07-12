@@ -1,0 +1,21 @@
+{
+	"genghis-khan": {
+		"Name": "Genghis Khan",
+		"Description": "The First Great Khan",
+		"Troop Type": "Bowman",
+		"Element": "Lightning",
+		"Position": "Range",
+		"Attributes": {
+			"Strength": 39.0,
+			"Agility": 29.0,
+			"Intelligence": 27.0,
+			"Physique": 29.0,
+			"Aptitude": 22.0,
+			"Energy Regen.": 71.0
+			},
+		"Active Skill": {
+			"Name": "Arrow Storm",
+			"Description": "Inflicts Physical Damage (Damage Rate 132%/176%/176%/220%/264%/308%/352%/396%/440%) to all enemies, and causes Wound-enemies cannot be healed for 10 seconds."
+		}
+	}
+}

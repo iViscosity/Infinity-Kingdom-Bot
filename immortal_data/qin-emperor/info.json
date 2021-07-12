@@ -1,0 +1,21 @@
+{
+	"qin-emperor": {
+		"Name": "Qin Emperor",
+		"Description": "Unifying Ruler",
+		"Troop Type": "Bowman",
+		"Element": "Wind",
+		"Position": "Support",
+		"Attributes": {
+			"Strength": 22.0,
+			"Agility": 24.0,
+			"Intelligence": 32.0,
+			"Physique": 22.0,
+			"Aptitude": 39.0,
+			"Energy Regen.": 100.0
+			},
+		"Active Skill": {
+			"Name": "Dragon Power",
+			"Description": "Inflicts Wound on all enemy Units, preventing them from being healed. Increases Attack Speed of all Units by 7.5%/10%/12.5%/15%/17.5%/20%/22.5%/25%. Also grants Cleave to all Wind Immortals, so their normal attacks deal 15%/20%/25%/30%/35%/40%/45%/50% extra damage to a nearby enemy target. Lasts 8s."
+		}
+	}
+}

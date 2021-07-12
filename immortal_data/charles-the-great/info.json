@@ -1,0 +1,21 @@
+{
+	"charles-the-great": {
+		"Name": "Charles the Great",
+		"Description": "Father of Europe",
+		"Troop Type": "Shieldman",
+		"Element": "Earth",
+		"Position": "Defence",
+		"Attributes": {
+			"Strength": 22.0,
+			"Agility": 24.0,
+			"Intelligence": 21.0,
+			"Physique": 39.0,
+			"Aptitude": 35.0,
+			"Energy Regen.": 64.0
+			},
+		"Active Skill": {
+			"Name": "Terra Shield",
+			"Description": "Creates a shield for all units that absorbs damage (Absorbing Rate 120%/160%/200%/240%/280%/320%/360%/400%). Your Shield absoption will increase by additional 150% for 6 seconds."
+		}
+	}
+}

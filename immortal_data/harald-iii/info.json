@@ -1,0 +1,21 @@
+{
+	"harald-iii": {
+		"Name": "Harald III",
+		"Description": "Hard Ruler",
+		"Troop Type": "Shieldman",
+		"Element": "Water",
+		"Position": "Attack",
+		"Attributes": {
+			"Strength": 32.0,
+			"Agility": 37.0,
+			"Intelligence": 21.0,
+			"Physique": 34.0,
+			"Aptitude": 24.0,
+			"Energy Regen.": 64.0
+			},
+		"Active Skill": {
+			"Name": "Glacier Incursion",
+			"Description": "Inflicts Physical Damage (Damage Rate 120%/160%/200%/240%/280%/320%/360%/400%) on a target enemy row, reducing its Physical Defence by 10.5%/14%/17.5%/21%/24.5%/28%/31.5%/35%, and has a 55% chance of Suffocating them, inflicting Physical Damage (Damage Rate 90%/120%/150%/180%/210%/240%/270%/300%) on them every 3s for 6s."
+		}
+	}
+}

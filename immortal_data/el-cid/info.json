@@ -1,0 +1,21 @@
+{
+	"el-cid": {
+		"Name": "El Cid",
+		"Description": "Conqueror of Valencia",
+		"Troop Type": "Cavalry",
+		"Element": "Lightning",
+		"Position": "Defence",
+		"Attributes": {
+			"Strength": 22.0,
+			"Agility": 17.0,
+			"Intelligence": 19.0,
+			"Physique": 39.0,
+			"Aptitude": 29.0,
+			"Energy Regen.": 53.0
+			},
+		"Active Skill": {
+			"Name": "Conquest",
+			"Description": "Reduces the Physical Damage inflicted on your front row troop by 9%/12%/15%/18%/21%/24%/27%/30%, and when they are targeted by Normal attacks, there's a 65% chance of inflicting Physical Damage on the enemy (Damage Rate 30%/40%/50%/60%/70%/80%/90%/100%) for 12s."
+		}
+	}
+}

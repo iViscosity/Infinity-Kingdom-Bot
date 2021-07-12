@@ -1,0 +1,22 @@
+{
+    "frederick-i": {
+        "Name": "Frederick I",
+        "Description": "Emperor Barbarossa",
+        "Element": "Fire",
+        "Troop Type": "Spearman",
+        "Position": "Attack",
+        "Tier": "S",
+        "Attributes": {
+            "Strength": 48,
+            "Agility": 19,
+            "Intelligence": 14,
+            "Physique": 37,
+            "Aptitude": 17,
+            "Energy Regen.": 53
+        },
+        "Active Skill": {
+            "Name": "Path of Flame",
+            "Description": "Inflicts Physical Damage (Damage Rate 156%/208%/260%/312%/364%/416%/468%/520%) on the enemy targets directly ahead, and recovers your HP equivalent to 30% of the damage amount."
+        }
+    }
+}

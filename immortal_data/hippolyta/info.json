@@ -1,0 +1,21 @@
+{
+	"hippolyta": {
+		"Name": "Hippolyta",
+		"Description": "Queen of the Amazon",
+		"Troop Type": "Shieldman",
+		"Element": "Fire",
+		"Position": "Attack",
+		"Attributes": {
+			"Strength": 32.0,
+			"Agility": 42.0,
+			"Intelligence": 22.0,
+			"Physique": 32.0,
+			"Aptitude": 32.0,
+			"Energy Regen.": 100.0
+			},
+		"Active Skill": {
+			"Name": "Flaming Smite",
+			"Description": "Fires heavenly fire 5 times, each time inflicting Physical Damage (Damage Rate 36%/48%/60%/72%/84%/96%/108%/120%) on a random enemy troop and reducing its Energy by 100 and attack speed by 10% (stackable) for 6s."
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"baldwin-iv": {
+		"Name": "Baldwin IV",
+		"Description": "Leper King",
+		"Troop Type": "Bowman",
+		"Element": "Wind",
+		"Position": "Magic",
+		"Attributes": {
+			"Strength": 16.0,
+			"Agility": 29.0,
+			"Intelligence": 47.0,
+			"Physique": 21.0,
+			"Aptitude": 40.0,
+			"Energy Regen.": 66.0
+			},
+		"Active Skill": {
+			"Name": "Hurricane",
+			"Description": "Summons Tornado that deals Magic Damage (Damage Rate 306%/348%/390%/432%/474%/516%/558%/600%) to 1 random enemy troop, and increases the Magical Damage it receives by 15.3%/17.4%/19.5%/21.6%/23.7%/25.8%/27.9%/30% for 6 seconds. After hitting a target, Tornado has a 50% chance of splitting into two which will continue to attack nearby enemy troops. A tornado can split up to 2 times."
+		}
+	}
+}

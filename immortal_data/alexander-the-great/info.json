@@ -1,0 +1,21 @@
+{
+	"alexander-the-great": {
+		"Name": "Alexander the Great",
+		"Description": "Conqueror of the World",
+		"Troop Type": "Cavalry",
+		"Element": "Earth",
+		"Position": "Attack",
+		"Attributes": {
+			"Strength": 32.0,
+			"Agility": 40.0,
+			"Intelligence": 22.0,
+			"Physique": 27.0,
+			"Aptitude": 39.0,
+			"Energy Regen.": 80.0
+			},
+		"Active Skill": {
+			"Name": "Eternal Conquest",
+			"Description": "[Passive] Increases Normal Attack damage by 50%\n[Active] Increases damage dealt by 15%/20%/25%/30%/35%/40%/45%/50, increases Attack Speed by 15%/20%/25%/30%/35%/40%/45%/50%, and grants Immunity to all controls for 6s."
+		}
+	}
+}

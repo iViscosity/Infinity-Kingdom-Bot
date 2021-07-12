@@ -1,0 +1,21 @@
+{
+	"attila": {
+		"Name": "Attila",
+		"Description": "Scourge of God",
+		"Troop Type": "Cavalry",
+		"Element": "Water",
+		"Position": "Attack",
+		"Attributes": {
+			"Strength": 40.0,
+			"Agility": 35.0,
+			"Intelligence": 26.0,
+			"Physique": 32.0,
+			"Aptitude": 26.0,
+			"Energy Regen.": 80.0
+			},
+		"Active Skill": {
+			"Name": "Wild Corrosion",
+			"Description": "Knocks up all enemy targets within the fan-shaped zone before you, inflicting massive Physical Damage (Damage Rate 69%/92%/115%/138%/161%/184%/207%/230%) and has a 15%/20%/25%/30%/35%/40%/45%/50% chance of Silencing them so that they cannot gain Energy or use Skills for 4s."
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"hannibal-barca": {
+		"Name": "Hannibal Barca",
+		"Description": "Father of Strategy",
+		"Troop Type": "Shieldman",
+		"Element": "Wind",
+		"Position": "Attack",
+		"Attributes": {
+			"Strength": 42.0,
+			"Agility": 30.0,
+			"Intelligence": 24.0,
+			"Physique": 35.0,
+			"Aptitude": 22.0,
+			"Energy Regen.": 80.0
+			},
+		"Active Skill": {
+			"Name": "Howling Blast",
+			"Description": "Increases your Damage by 13.5%/18%/22.5%/27%/31.5%/36%/40.5%/45% and causes Cleave - each normal attack will cause 27%/36%/45%/54%/63%/72%/81%/90% damage to an additional nearby target for 8 seconds."
+		}
+	}
+}

@@ -1,0 +1,12 @@
+*.env
+*.dat
+*.ini
+*.code-workspace
+
+__pycache__/
+.vscode/
+settings/guilds/
+
+# Heroku
+Procfile
+runtime.txt

@@ -1,0 +1,21 @@
+{
+	"siegfried": {
+		"Name": "Siegfried",
+		"Description": "Dragon Slayer",
+		"Troop Type": "Cavalry",
+		"Element": "Shadow",
+		"Position": "Attack",
+		"Attributes": {
+			"Strength": 43.0,
+			"Agility": 30.0,
+			"Intelligence": 19.0,
+			"Physique": 32.0,
+			"Aptitude": 24.0,
+			"Energy Regen.": 54.0
+			},
+		"Active Skill": {
+			"Name": "Dragon Strike",
+			"Description": "Summons a giant sword to strike the ground, dealing Physical Damage (Damage Rate 396%/528%/660%/792%/924%/1056%/1188%/1320%) equally shared by enemy targets within range."
+		}
+	}
+}

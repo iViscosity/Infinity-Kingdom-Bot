@@ -1,0 +1,21 @@
+{
+	"yi-seong-gye": {
+		"Name": "Yi Seong-gye",
+		"Description": "Founder of Joseon",
+		"Troop Type": "Bowman",
+		"Element": "Lightning",
+		"Position": "Range",
+		"Attributes": {
+			"Strength": 32.0,
+			"Agility": 39.0,
+			"Intelligence": 27.0,
+			"Physique": 29.0,
+			"Aptitude": 29.0,
+			"Energy Regen.": 71.0
+			},
+		"Active Skill": {
+			"Name": "Heavenly Conquering",
+			"Description": "Inflicts Transfer to 2 random enemy units, and transfers 20% Physical/Magical Attack and Physical/Magical Defence to yourself, and then causes Physical Damage (Damage Rate 150%/200%/250%/300%/350%/400%/450%/500%) to those units; Transfer lasts 10 seconds."
+		}
+	}
+}

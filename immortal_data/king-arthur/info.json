@@ -1,0 +1,21 @@
+{
+	"king-arthur": {
+		"Name": "King Arthur",
+		"Description": "King of Camelot",
+		"Troop Type": "Cavalry",
+		"Element": "Wind",
+		"Position": "Defence",
+		"Attributes": {
+			"Strength": 26.0,
+			"Agility": 22.0,
+			"Intelligence": 17.0,
+			"Physique": 42.0,
+			"Aptitude": 37.0,
+			"Energy Regen.": 80.0
+			},
+		"Active Skill": {
+			"Name": "Wind Ruler",
+			"Description": "Reduces all damage you receive by 10.5%/14%/17.5%/21%/24.5%/28%/31.5%/35%, and has a 60% chance of reflecting 15%/20%/25%/30%/35%/40%/45%/50% of the damage back on the attacker for 6 seconds."
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"richard-i": {
+		"Name": "Richard I",
+		"Description": "The Lionheart",
+		"Troop Type": "Shieldman",
+		"Element": "Lightning",
+		"Position": "Defence",
+		"Attributes": {
+			"Strength": 24.0,
+			"Agility": 27.0,
+			"Intelligence": 19.0,
+			"Physique": 43.0,
+			"Aptitude": 30.0,
+			"Energy Regen.": 80.0
+			},
+		"Active Skill": {
+			"Name": "Heaven's Wrath",
+			"Description": "Inflicts Physical Damage on enemy targets within a certain range (Damage Rate 51%/68%/85%/102%/119%/136%/153%/170%) and has a 12%/16%/20%/24%/28%/32%/36%/40% chance of Stunning them so that they cannot move or recover Energy for 4s."
+		}
+	}
+}

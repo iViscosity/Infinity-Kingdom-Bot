@@ -1,0 +1,21 @@
+{
+	"theodora": {
+		"Name": "Theodora",
+		"Description": "Empress of Eastern Rome",
+		"Troop Type": "Bowman",
+		"Element": "Holy",
+		"Position": "Support",
+		"Attributes": {
+			"Strength": 26.0,
+			"Agility": 17.0,
+			"Intelligence": 40.0,
+			"Physique": 21.0,
+			"Aptitude": 40.0,
+			"Energy Regen.": 66.0
+			},
+		"Active Skill": {
+			"Name": "Divine Gift",
+			"Description": "Heals all allies' HP (regen rate 153%/174%/195%/216%/237%/258%/279%/300%) and dispels any continuous damage effects. If the target's HP is less than 50%, healing effect is increased by 100%."
+		}
+	}
+}

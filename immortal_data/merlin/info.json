@@ -1,0 +1,21 @@
+{
+	"merlin": {
+		"Name": "Merlin",
+		"Description": "The Great Wizard",
+		"Troop Type": "Bowman",
+		"Element": "Water",
+		"Position": "Magic",
+		"Attributes": {
+			"Strength": 14.0,
+			"Agility": 21.0,
+			"Intelligence": 48.0,
+			"Physique": 26.0,
+			"Aptitude": 22.0,
+			"Energy Regen.": 66.0
+			},
+		"Active Skill": {
+			"Name": "Prophecy",
+			"Description": "Deals Magical Damage (Damage Rate 265.2%/301.6%/338%/374.4%/410.8%/447.2%/483.6%/520%) to all enemies. If the target has been Chilled, this damage is increased by 50%."
+		}
+	}
+}

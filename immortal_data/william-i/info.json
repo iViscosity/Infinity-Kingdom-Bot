@@ -1,0 +1,21 @@
+{
+	"william-i": {
+		"Name": "William I",
+		"Description": "William the Conqueror",
+		"Troop Type": "Cavalry",
+		"Element": "Fire",
+		"Position": "Attack",
+		"Attributes": {
+			"Strength": 42.0,
+			"Agility": 37.0,
+			"Intelligence": 22.0,
+			"Physique": 35.0,
+			"Aptitude": 32.0,
+			"Energy Regen.": 53.0
+			},
+		"Active Skill": {
+			"Name": "Skyfire",
+			"Description": "Inflicts Physical Damage on the enemy targets directly ahead (Damage Rate 135%/180%/225%/270%/315%/360%/405%/450%), and increases the Crit Rate of all your troops by 6%/8%/10%/12%/14%/16%/18%/20% for 6s."
+		}
+	}
+}
